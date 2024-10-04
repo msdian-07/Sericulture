@@ -8,8 +8,8 @@
 
 #define WIFI_SSID "Abcdefg"  
 #define WIFI_PASSWORD "12349876" 
-#define FIREBASE_HOST "https://zhagaram-99dd9-default-rtdb.firebaseio.com/"
-#define FIREBASE_Authorization_key "THD2CtDBpgCzkVkHGtFCz0babdtGxVCOnnOPdJBj"
+#define FIREBASE_HOST "******************************"
+#define FIREBASE_Authorization_key "T********************************j"
 
 #define DHTPIN 14    
 #define DHTTYPE DHT11   
